@@ -301,3 +301,12 @@ import url("https://fonts.googleapis.com/css?family=Amiko&display=swap&family=Ac
 .at-onhover-fonts-size-r-super:hover {font-size: 7vw;}
 .at-onhover-fonts-size-r-ularge:hover {font-size: 8vw;}
 .at-onhover-fonts-size-r-extreme:hover {font-size: 10vw;}
+.at-fonts-size-n-icroscopic {font-size: 3px;}
+.at-fonts-size-n-vsmall {font-size: 7px;}
+.at-fonts-size-n-small {font-size: 15px;}
+.at-fonts-size-n-medium {font-size: 20px;}
+.at-fonts-size-n-large {font-size: 27.5px;}
+.at-fonts-size-n-vlarge {font-size: 33px;}
+.at-fonts-size-n-super {font-size: 46px;}
+.at-fonts-size-n-ularge {font-size: 53.5px;}
+.at-fonts-size-n-extreme {font-size: 67px;}
