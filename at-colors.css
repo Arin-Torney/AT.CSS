@@ -283,3 +283,21 @@ import url("https://fonts.googleapis.com/css?family=Amiko&display=swap&family=Ac
 .at-onhover-fonts-mono-andale:hover {font-family: "Andale Mono", monospace;}
 .at-onhover-fonts-mono-freemono:hover {font-family: FreeMono, monospace;}
 .at-onhover-fonts-mono-dejavu:hover {font-family: "DejaVu Sans Mono", monospace;}
+.at-fonts-size-r-microscopic {font-size: 0.5vw;}
+.at-fonts-size-r-vsmall {font-size: 1vw;}
+.at-fonts-size-r-small {font-size: 2vw;}
+.at-fonts-size-r-medium {font-size: 3vw;}
+.at-fonts-size-r-large {font-size: 4vw;}
+.at-fonts-size-r-vlarge {font-size: 5vw;}
+.at-fonts-size-r-super {font-size: 7vw;}
+.at-fonts-size-r-ularge {font-size: 8vw;}
+.at-fonts-size-r-extreme {font-size: 10vw;}
+.at-onhover-fonts-size-r-microscopic:hover {font-size: 0.5vw;}
+.at-onhover-fonts-size-r-vsmall:hover {font-size: 1vw;}
+.at-onhover-fonts-size-r-small:hover {font-size: 2vw;}
+.at-onhover-fonts-size-r-medium:hover {font-size: 3vw;}
+.at-onhover-fonts-size-r-large:hover {font-size: 4vw;}
+.at-onhover-fonts-size-r-vlarge:hover {font-size: 5vw;}
+.at-onhover-fonts-size-r-super:hover {font-size: 7vw;}
+.at-onhover-fonts-size-r-ularge:hover {font-size: 8vw;}
+.at-onhover-fonts-size-r-extreme:hover {font-size: 10vw;}
