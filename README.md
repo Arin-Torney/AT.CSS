@@ -3,4 +3,4 @@ Hello! I am Arin Torney has made this project as a versatile CSS framework made 
 
 Thank you.
 
-Note this framework is still in progress.
+Note this framework is no longer active.
